@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/1bc2dcb0-eb96-41b8-82cf-74e50cc2f1e8" alt="GitHub Token Validator Logo" width="350"/>
+## Github Token Checker
 
-</div>
+<img src="https://github.com/user-attachments/assets/b220d0fc-352f-4d7f-8a99-4b7012d40a76" alt="GitHub Token Validator Logo" width="750"/>
 
-<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3.6%2B-3776AB.svg?style=flat-square&logo=python)
 ![Click](https://img.shields.io/badge/cli-click-blue?style=flat-square)
@@ -14,8 +13,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b220d0fc-352f-4d7f-8a99-4b7012d40a76" alt="Github-Token-Validator Screenshot" width="80%"/>
-
 
 > **Github-Token-Validator** is a fast, concurrent CLI tool (gitcheck.py) to validate GitHub Personal Access Tokens (PATs), audit their scopes, and export results in various formats.
 
