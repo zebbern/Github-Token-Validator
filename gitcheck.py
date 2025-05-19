@@ -1,25 +1,4 @@
 #!/usr/bin/env python3
-"""
-enhanced_t.py – Concurrent GitHub token checker with CLI, rich output, and flexible formatting.
-
-Usage:
-    python enhanced_t.py [OPTIONS]
-
-Options:
-    --tokens-file TEXT        Path to tokens file (default: tokens.txt)
-    --api-url TEXT            GitHub API URL (default: https://api.github.com/user)
-    --delay FLOAT             Delay between requests per worker (default: 1.0)
-    -w, --workers INT         Number of concurrent workers (default: 2)
-    --retries INT             Number of retries for failed requests (default: 2)
-    --min-scopes TEXT         Comma-separated required scopes (e.g. "repo,read:org")
-    --mask/--full-token       Mask tokens in output or show full (default: full-token)
-    --output-format TEXT      text, json, csv (default: text)
-    --output-file TEXT        Path to write JSON/CSV output
-    --valid-output-file TEXT  Write valid tokens (one per line)
-    --log-file TEXT           Path to write detailed logs
-    -v, --verbose             Verbose console logging
-    -h, --help                Show help message and exit
-"""
 import sys
 import time
 import json
