@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/94d8be8d-83da-42e2-8f48-c615560aefe4" alt="Github-Token-Validator Screenshot" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/b220d0fc-352f-4d7f-8a99-4b7012d40a76" alt="Github-Token-Validator Screenshot" width="80%"/>
 
 
 > **Github-Token-Validator** is a fast, concurrent CLI tool (gitcheck.py) to validate GitHub Personal Access Tokens (PATs), audit their scopes, and export results in various formats.
