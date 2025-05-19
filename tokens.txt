@@ -1,0 +1,4 @@
+# Replace these with the tokens you want to check yourself 1 line for each token!
+ghp_exampletoken1
+ghp_exampletoken2
+ghp_exampletoken3
